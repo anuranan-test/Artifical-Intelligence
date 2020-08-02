@@ -3,8 +3,8 @@ All ouputs are in the file in order.
 Please search for the assignment in the text editor of your choice.
 Search for string "Assignment 1" or "8QueenUCS.cpp" for First Assignment.
 Search for string "Assignment 2" or "8QueenA_Star.cpp" for Second Assignment.
-Search for string "Assignment 3" or "Genetic.cpp" for Third Assignment. Input number of students 24.
-Search for string "Assignment 4" or "Stick.cpp" for Fourth Assignment. Input 2 for AIvsAI, and 21 for number of sticks.
+Search for string "Assignment 3" or "Genetic.cpp" for Third Assignment. Corresponding Input for Given Output :  number of students 24.
+Search for string "Assignment 4" or "Stick.cpp" for Fourth Assignment. Corresponding Input for Given Output : 2 for AIvsAI, and 21 for number of sticks.
 
 
 Assignment 1 , 8QueenUCS.cpp
