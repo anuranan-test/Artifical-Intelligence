@@ -45,4 +45,4 @@ For Linux   : run g++ Stick.cpp, and run the resulting a.out. Output will show i
 ---------------------------
 Output.txt included in the repo contains a solution for each of the assignments. To search in the txt file, open it in any text editor, and search within the file for
 Assignment [number] or cpp file name.
-For example, Find  "Assignment 1" or "8QueenUCS.cpp" to go to the sample output for that program/assignment.
+For example, Find  "Assignment 1" or "8QueenUCS.cpp" to go to the sample output for that program/assignment. Input used for particular output is mentioned at the top.
